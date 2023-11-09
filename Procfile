@@ -1,1 +1,1 @@
-web: gunicorn railway.wsgi --log-file -
+web: gunicorn railway_deploy.wsgi --log-file -
